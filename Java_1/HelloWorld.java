@@ -1,7 +1,7 @@
 public class HelloWorld {
 
-	public satic void man(String[] args) {
-		System.out.println("Hello World! It's me Piyush!");
+	public static void main(String[] args) {
+		System.out.println("Hello World! It's me Piyush and I love Valorant!");
 
 	}
 }
