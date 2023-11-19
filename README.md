@@ -1,2 +1,1 @@
-# IntroToJava
-LinkedInLearning IntroToJava
+# Intro To Java
